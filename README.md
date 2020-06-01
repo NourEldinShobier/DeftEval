@@ -2,9 +2,10 @@
 
 ![](images/nlp.png)
 
-## Team members 🤟 : 
 
-Nour El-Din Salah **//** Anas Hamed **//** Wadie Bishoy
+<p align="center">
+ Team members 🤟: <b>Nour El-Din Salah, Anas Hamed,</b> and <b>Wadie Bishoy</b>
+</p>
 
 
 
