@@ -2,19 +2,19 @@
 
 ![](images/nlp.png)
 
-### Team members 🤟 : 
+## Team members 🤟 : 
 
 Nour El-Din Salah **//** Anas Hamed **//** Wadie Bishoy
 
 
 
-### Motivation 🎯
+## Motivation 🎯
 
 Definition extraction has been a popular topic in NLP research for well more than a decade, but has been historically limited to well defined, structured, and narrow conditions. In reality, natural language is complicated, and complicated data requires both complex solutions and data that reflects that reality. The DEFT corpus expands on these cases to include term-definition pairs that cross sentence boundaries, lack explicit definitors, or definition-like verb phrases (e.g. *is*, *means*, *is defined as*, etc.), or appear in non-hypernym structures.
 
 
 
-### Subtasks 📔
+## Subtasks 📔
 
 DeftEval 2020 is part of SemEval 2020 official competition (Task 6). Organized by the Adobe Document Cloud Team. DeftEval is split into three subtasks,
 
@@ -24,7 +24,7 @@ DeftEval 2020 is part of SemEval 2020 official competition (Task 6). Organized b
 
 
 
-### Data Exploration 🔬
+## Data Exploration 🔬
 
 
 
@@ -70,7 +70,7 @@ Where:
 
 
 
-### Testing Results 📉
+## Testing Results 📉
 
 | Algorithm           | F1-score class 0 | F1-score class 1 | Accuracy |
 | ------------------- | :--------------: | :--------------: | :------: |
