@@ -1,6 +1,6 @@
 # DeftEval2020
 
-![](images\nlp.png)
+![](images/nlp.png)
 
 ### Team members 🤟 : 
 
@@ -8,13 +8,13 @@ Nour El-Din Salah **//** Anas Hamed **//** Wadie Bishoy
 
 
 
-## Motivation **🎯**
+### Motivation 🎯
 
 Definition extraction has been a popular topic in NLP research for well more than a decade, but has been historically limited to well defined, structured, and narrow conditions. In reality, natural language is complicated, and complicated data requires both complex solutions and data that reflects that reality. The DEFT corpus expands on these cases to include term-definition pairs that cross sentence boundaries, lack explicit definitors, or definition-like verb phrases (e.g. *is*, *means*, *is defined as*, etc.), or appear in non-hypernym structures.
 
 
 
-## Subtasks 📔
+### Subtasks 📔
 
 DeftEval 2020 is part of SemEval 2020 official competition (Task 6). Organized by the Adobe Document Cloud Team. DeftEval is split into three subtasks,
 
@@ -24,7 +24,7 @@ DeftEval 2020 is part of SemEval 2020 official competition (Task 6). Organized b
 
 
 
-## Data Exploration **🔬**
+### Data Exploration 🔬
 
 
 
@@ -62,15 +62,15 @@ Where:
 - **Removing stop words:** These are common words that don’t really add anything to the classification, such as a, able, either, else, ever and so on. So, for our purposes, The election was over would be election over and a very close game would be very close game.
 - **Stemming:** Stemming describes the process of transforming a word into its root form. The original stemming algorithm was developed my Martin F. Porter in 1979 and is hence known as Porter stemmer.
 
-![image-20200601204527161](images\image-20200601204527161.png)
+![image-20200601204527161](images/image-20200601204527161.png)
 
 - **Using n-grams:** In the n-gram model, a token can be defined as a sequence of n items. The simplest case is the so-called unigram (1-gram) where each word consists of exactly one word, letter, or symbol. Choosing the optimal number n depends on the language as well as the particular application.
 
-![image-20200601204908459](images\image-20200601204908459.png)
+![image-20200601204908459](images/image-20200601204908459.png)
 
 
 
-## Testing Results **📉**
+### Testing Results 📉
 
 | Algorithm           | F1-score class 0 | F1-score class 1 | Accuracy |
 | ------------------- | :--------------: | :--------------: | :------: |
@@ -81,7 +81,7 @@ Where:
 
 
 
-## Resources **🔗**
+### Resources 🔗
 
 1. [*Weakly Supervised Definition Extraction (Luis Espinosa-Anke, Francesco Ronzano and Horacio Saggion), Proceedings of Recent Advances in Natural Language Processing, pages 176–185,Hissar, Bulgaria, Sep 7–9 2015.*](https://www.aclweb.org/anthology/R15-1025.pdf)
 
