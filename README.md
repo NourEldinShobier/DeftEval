@@ -69,7 +69,7 @@ Where:
 
 ![image-20200601204908459](images/image-20200601204908459.png)
 
-
+---
 
 ### Testing Results 📉
 
@@ -80,7 +80,7 @@ Where:
 | Logistic Regression |       0.85       |       0.66       |   0.80   |
 | KNN                 |       0.82       |       0.30       |   0.71   |
 
-
+---
 
 ### Resources 🔗
 
